@@ -115,7 +115,7 @@
 
 <hr/>
 
-<h2 align="center">📈 GitHub Stats (red theme) 📈</h2>
+<h2 align="center">📈 GitHub Stats 📈</h2>
 <br>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Cronix2&theme=dark&hide_border=false" alt="Cronix's GitHub Streak"/>
@@ -131,7 +131,7 @@
 
 <hr/>
 
-<h2 align="center">💹 Most Popular Repos 💹</h2>
+<h2 align="center">💹 Most Active Repos 💹</h2>
 <br>
 
 <!-- ====== REPOS en FLEX (côte à côte) SANS TABLE ====== -->
