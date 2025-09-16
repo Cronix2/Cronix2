@@ -41,6 +41,8 @@
   <img title="C" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;
   <img title="C++" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;
   <img title="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />&nbsp;
+  <img title="HolyC" height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/33/HolyC_Logo.svg"/>&nbsp;
+  <img title="Kotlin" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>&nbsp;
   <img title="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;
   <img title="PowerShell" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" />&nbsp;
   <img title="Bash / Linux" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />&nbsp;
@@ -68,6 +70,7 @@
 <p align="center">
   <img title="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />&nbsp;
   <img title="MariaDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" />&nbsp;
+  <img title="MongoDB" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />&nbsp;
   <img title="PostgreSQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />&nbsp;
   <img title="SQLite" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" />
 </p>
@@ -93,6 +96,7 @@
 <h3 align="center"><small><em><b>Tools & Apps</b></em></small></h3>
 <p align="center">
   <img title="VS Code" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />&nbsp;
+  <img title="Jetbrains" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />&nbsp;
   <img title="WordPress" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />&nbsp;
   <img title="Jira" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" />&nbsp;
   <img title="Notion" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" />&nbsp;
@@ -106,11 +110,23 @@
   <img title="Raspberry Pi" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />&nbsp;
   <img title="Arduino" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />&nbsp;
   <img title="Blender" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" />&nbsp;
+  <img title="Fusion 360" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fusion/fusion-original.svg" />&nbsp;
   <img title="Figma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />&nbsp;
   <img title="Inkscape" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/inkscape.svg" />&nbsp;
   <img title="Unity" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />&nbsp;
   <img title="Unreal Engine" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" />&nbsp;
   <img title="Godot" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" />
+</p>
+
+<!-- ===== Sous-titre : Cybersecurity ===== -->
+<h3 align="center"><small><em><b>Cybersecurity</b></em></small></h3>
+<p align="center">
+  <img title="TryHackMe" height="30" src="https://javierolmedo.github.io/assets/images/tryhackme.png" />&nbsp;
+  <img title="Hack The Box" height="30" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />&nbsp;
+  <img title="Root Me" height="30" src="https://camo.githubusercontent.com/78e3d7a54b37974c5a01049ef92d792a9f0276a2397659e7fe5ba3cf6ac51b98/68747470733a2f2f70726f2e726f6f742d6d652e6f72672f737175656c65747465732f696d616765732f524d505f6c6f676f5f626c616e632e706e67" />&nbsp;
+  <img title="Ozint" height="30" src="https://ozint.eu/assets/images/brand/ozint-picto-light.svg" />&nbsp;
+  <img title="PortSwigger" height="30" src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" />&nbsp;
+
 </p>
 
 <hr/>
