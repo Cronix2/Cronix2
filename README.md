@@ -139,7 +139,7 @@
 
 <!-- ====== STREAK & TOP LANGS en FLEX (côte à côte) + thème rouge + SANS BORDURE ====== -->
 <div align="center" style="display:flex;justify-content:center;align-items:center;gap:16px;flex-wrap:wrap;">
-  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Cronix2&show_icons=true&include_all_commits=true&count_private=false&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=c9cacc&bg_color=0d1117&hide_border=true" alt="Cronix's GitHub Stats" />
+  <img width="380" src="https://github-readme-stats.vercel.app/api?username=Cronix2&show_icons=true&include_all_commits=true&count_private=false&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=c9cacc&bg_color=0d1117&hide_border=true" alt="Cronix's GitHub Stats" />&nbsp;&nbsp;&nbsp;
   <img
     alt="Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cronix2&layout=compact&hide_border=true&title_color=FF0000&text_color=c9cacc&bg_color=0d1117" />
@@ -154,7 +154,7 @@
 <div align="center" style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
   <a href="https://github.com/Cronix2/HarpoChat">
     <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=Cronix2&repo=HarpoChat&title_color=ffffff&text_color=c9cacc&icon_color=FF0000&bg_color=1d1f21" alt="HarpoChat" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Cronix2/flipper-zero-scripts">
     <img width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=Cronix2&repo=flipper-zero-scripts&title_color=ffffff&text_color=c9cacc&icon_color=FF0000&bg_color=1d1f21" alt="flipper-zero-scripts" />
   </a>
@@ -166,6 +166,20 @@
 <br>
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Cronix3.png" alt="TryHackMe Badge" height="120">
+</p>
+
+<h2 align="center">🏅 Cisco Badge 🏅</h2>
+<br>
+<p align="center">
+  <a href="https://www.credly.com/badges/37de9a06-0e85-4a15-9d22-083b02163d70/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Cisco Badge 3" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/32b85115-0b01-484d-bc4b-f52417e47228/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Badge 1" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/34d565c2-d587-4025-bae6-40c12c280cd5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Badge 2" height="120">
+  </a>
 </p>
 
 <hr/>
