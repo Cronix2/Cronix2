@@ -123,8 +123,8 @@
 <p align="center">
   <img title="TryHackMe" height="30" src="https://javierolmedo.github.io/assets/images/tryhackme.png" />&nbsp;
   <img title="Hack The Box" height="30" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />&nbsp;
-  <img title="Root Me" height="30" src="https://camo.githubusercontent.com/78e3d7a54b37974c5a01049ef92d792a9f0276a2397659e7fe5ba3cf6ac51b98/68747470733a2f2f70726f2e726f6f742d6d652e6f72672f737175656c65747465732f696d616765732f524d505f6c6f676f5f626c616e632e706e67" />&nbsp;
-  <img title="Ozint" height="30" src="https://ozint.eu/assets/images/brand/ozint-picto-light.svg" />&nbsp;
+  <img title="Root Me" height="30" src="https://www.webkidsacademy.be/tp1/Site%20Internet%20personnel/2019-2020/Nicolas%20Wyrzykowski/images/root-me-pro.png" />&nbsp;
+  <img title="Ozint" height="30" src="https://maltemo.github.io/assets/images/ozint.png" />&nbsp;
   <img title="PortSwigger" height="30" src="https://avatars.githubusercontent.com/u/13749115?s=280&v=4" />&nbsp;
 
 </p>
@@ -179,6 +179,9 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/34d565c2-d587-4025-bae6-40c12c280cd5/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Badge 2" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e084270e-2917-4bdd-8334-6ab3dea8eb27/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Cisco Badge 4" height="120">
   </a>
 </p>
 
