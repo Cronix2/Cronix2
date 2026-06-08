@@ -165,7 +165,9 @@
 <h2 align="center">🏅 TryHackMe Badge 🏅</h2>
 <br>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Cronix3.png" alt="TryHackMe Badge" height="120">
+  <a href="https://tryhackme.com/p/Cronix3" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Cronix3.png" alt="TryHackMe Badge" height="120">
+  </a>
 </p>
 
 <h2 align="center">🏅 Cisco Badge 🏅</h2>
