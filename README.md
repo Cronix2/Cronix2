@@ -173,23 +173,23 @@
 <h2 align="center">🏅 Cisco Badge 🏅</h2>
 <br>
 <p align="center">
-  <a href="https://www.credly.com/badges/37de9a06-0e85-4a15-9d22-083b02163d70/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Cisco Badge 3" height="120">
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/32b85115-0b01-484d-bc4b-f52417e47228/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Badge 1" height="120">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/34d565c2-d587-4025-bae6-40c12c280cd5/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Badge 2" height="120">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/e084270e-2917-4bdd-8334-6ab3dea8eb27/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Cisco Badge 4" height="120">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/0cc81096-6ae4-4263-a1b5-3b9935e07f3b" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Cisco Badge 5" height="120">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/975b7c4f-98aa-4cb6-a13e-8370d63c4781" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Cisco Badge 6" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/37de9a06-0e85-4a15-9d22-083b02163d70/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="Cisco Badge 3" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/34d565c2-d587-4025-bae6-40c12c280cd5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Cisco Badge 2" height="120">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e084270e-2917-4bdd-8334-6ab3dea8eb27/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png" alt="Cisco Badge 4" height="120">
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/52ee3baf-81a6-48d0-bcce-79e995a42b5e" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="Cisco Badge 7" height="120">
